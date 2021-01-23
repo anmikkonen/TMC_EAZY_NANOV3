@@ -176,14 +176,14 @@ void loop() {
     Serial.print("\n");
     
   }
-  else if (data_to_echo == 4 ) { //aloituskomento
+  else if (data_to_echo == 4 ) { 
     
     digitalWrite( DIR_PIN,  LOW );
     paalla = true;
     data_to_echo = 0;
     //startCommand = true;  
   }
-  else if (data_to_echo == 5) { //anturi koneessa
+  else if (data_to_echo == 5) { 
       //sensorIn = true;
       
       digitalWrite( DIR_PIN,  HIGH) ;
