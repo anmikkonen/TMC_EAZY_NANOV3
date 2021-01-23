@@ -24,4 +24,5 @@ __________________________________________________________________________
 	   *** |--------------- Libraries --------------| ***
 
 	           TMCStepper.h by Teemu Mäntykallio
+		   StallGuard.ino by Teemu Mäntykallio
 
